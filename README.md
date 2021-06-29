@@ -1,7 +1,7 @@
 # Gulp Чистая сборка
 
 Установка:
-1. git clone
+1. git clone https://github.com/antonwp/Gulp.git
 2. npm i
 
 Команды:<br>
