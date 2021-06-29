@@ -4,7 +4,7 @@
 1. git clone
 2. npm i
 
-Команды:
-gulp - запуск
-gulp svgSprite - конвертирование SVG
-gulp otf2ttf - конвертирование шрифтов otf
+Команды:<br>
+<b>gulp</b> - запуск<br>
+<b>gulp svgSprite</b> - конвертирование SVG<br>
+<b>gulp otf2ttf</b> - конвертирование шрифтов otf
