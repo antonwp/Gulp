@@ -1,0 +1,50 @@
+@media screen and (max-width: 576px) {
+
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 1400px) {
+
+}
+/* 576px */
+@media screen and (max-width: 36em) {
+
+}
+/* 768px */
+@media screen and (max-width: 48em) {
+
+}
+/* 991px */
+@media screen and (max-width: 62em) {
+
+}
+/* 1200px */
+@media screen and (max-width: 75em) {
+
+}
+/* 1400px */
+@media screen and (max-width: 87.5em) {
+
+}
+
+breakpoints: {
+    576: {
+        slidesPerView: 2
+    },
+    640: {
+        slidesPerView: 2
+    },
+    768: {
+        slidesPerView: 4
+    },
+    1024: {
+        slidesPerView: 6
+    },
+}
